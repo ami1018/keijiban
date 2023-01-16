@@ -1,0 +1,115 @@
+main {font-family: メイリオ;}
+
+.menu{
+    background-color: black;
+    width: 100%;
+    height: 45px;
+}
+
+.menu li{
+    float:left;
+    list-style: none;
+    line-height: 45px;
+    padding-right: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+h1 {
+
+padding: .15em 0 0 .5em;
+border-left: 4px solid black;
+border-bottom: 1px solid gray;
+font-size: 40px;
+margin-top: 25px;
+}
+
+main{clear: both;}
+
+form h2{ margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: 4px red solid;
+    background-color: #f1f1f1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 900px;
+    font-size: 20px;
+}
+
+
+.nyuuryoku{ float:left;
+    background-color: #f1f1f1;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    
+}
+
+form{ margin: 0 auto;
+}
+
+form div{
+    padding: 15px;
+}
+
+.textarea{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.kiji{
+    margin-top: 30px;
+    float: left;
+    background-color: #f1f1f1;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 920px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.kiji h3{
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px dashed black;
+    font-size: 25px;
+
+}
+
+.left{float: left;
+    width: 65%;
+}
+
+.right{
+    float: right;
+    width: 28%;
+    margin-top: 30px;
+}
+
+.right li{
+    list-style-type: none;
+    line-height: 3;
+    font-weight:bolder ;
+    font-size: 18px;
+}
+
+.right h2{
+    border-bottom: 2px dashed black;
+    font-size: 25px;
+}
+
+footer{
+    clear: both;
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
